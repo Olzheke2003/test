@@ -1,5 +1,7 @@
+// task1.go
+package solution
 
+// UserFunction принимает два числа и возвращает их сумму.
 func UserFunction(a, b int) int {
-    // Ваша реализация: например, возвращаем сумму
-    return a + b
+	return a + b
 }
